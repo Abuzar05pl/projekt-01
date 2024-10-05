@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunktablexpress_front_react=self.webpackChunktablexpress_front_react||[]).push([[744],{2744:function(e,t,s){s.r(t);s(2791);var l=s(184);t.default=function(){return(0,l.jsxs)("div",{className:"flex flex-col items-center justify-center h-full",children:[(0,l.jsx)("h1",{className:"text-red-300 text-4xl",children:"404"}),(0,l.jsx)("p",{className:"text-red-300 text-2xl",children:"Oops. Looks like the page you are looking for no longer exists"})]})}}}]);
-//# sourceMappingURL=744.ff462f36.chunk.js.map

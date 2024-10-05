@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/projekt-01/static/css/main.100db47b.css",
-    "main.js": "/projekt-01/static/js/main.87f802b9.js",
-    "static/js/41.20c70745.chunk.js": "/projekt-01/static/js/41.20c70745.chunk.js",
-    "static/js/744.ff462f36.chunk.js": "/projekt-01/static/js/744.ff462f36.chunk.js",
-    "static/js/134.ca0b4b18.chunk.js": "/projekt-01/static/js/134.ca0b4b18.chunk.js",
-    "static/js/96.04244565.chunk.js": "/projekt-01/static/js/96.04244565.chunk.js",
-    "static/js/787.5414f56c.chunk.js": "/projekt-01/static/js/787.5414f56c.chunk.js",
-    "static/js/211.8ecfc722.chunk.js": "/projekt-01/static/js/211.8ecfc722.chunk.js",
-    "static/js/72.a958911e.chunk.js": "/projekt-01/static/js/72.a958911e.chunk.js",
+    "main.css": "/projekt-01/static/css/main.f5d7749d.css",
+    "main.js": "/projekt-01/static/js/main.b0e7c33c.js",
+    "static/js/559.6556ffc4.chunk.js": "/projekt-01/static/js/559.6556ffc4.chunk.js",
+    "static/js/922.4f544172.chunk.js": "/projekt-01/static/js/922.4f544172.chunk.js",
+    "static/js/862.498eb3fd.chunk.js": "/projekt-01/static/js/862.498eb3fd.chunk.js",
+    "static/js/680.fb4fb2bc.chunk.js": "/projekt-01/static/js/680.fb4fb2bc.chunk.js",
+    "static/js/453.9bdc213f.chunk.js": "/projekt-01/static/js/453.9bdc213f.chunk.js",
+    "static/js/608.e870c7ef.chunk.js": "/projekt-01/static/js/608.e870c7ef.chunk.js",
+    "static/js/858.92db2adb.chunk.js": "/projekt-01/static/js/858.92db2adb.chunk.js",
     "static/media/Avatar.svg": "/projekt-01/static/media/Avatar.f1eb68181610fce628f55e4e01b2157a.svg",
     "static/media/login-bg.jpg": "/projekt-01/static/media/login-bg.1a1fab787438cb080529.jpg",
     "static/media/ANBBQ.png": "/projekt-01/static/media/ANBBQ.34347a634f98019089ed.png",
@@ -31,18 +31,18 @@
     "static/media/create.svg": "/projekt-01/static/media/create.b401a1abb317f753481d21097462fbcf.svg",
     "static/media/search.svg": "/projekt-01/static/media/search.bface9ca19df42e8c8b1777ff73d0368.svg",
     "static/media/Dell.svg": "/projekt-01/static/media/Dell.b138cc1c842ba6146508746f9d468dc7.svg",
-    "main.100db47b.css.map": "/projekt-01/static/css/main.100db47b.css.map",
-    "main.87f802b9.js.map": "/projekt-01/static/js/main.87f802b9.js.map",
-    "41.20c70745.chunk.js.map": "/projekt-01/static/js/41.20c70745.chunk.js.map",
-    "744.ff462f36.chunk.js.map": "/projekt-01/static/js/744.ff462f36.chunk.js.map",
-    "134.ca0b4b18.chunk.js.map": "/projekt-01/static/js/134.ca0b4b18.chunk.js.map",
-    "96.04244565.chunk.js.map": "/projekt-01/static/js/96.04244565.chunk.js.map",
-    "787.5414f56c.chunk.js.map": "/projekt-01/static/js/787.5414f56c.chunk.js.map",
-    "211.8ecfc722.chunk.js.map": "/projekt-01/static/js/211.8ecfc722.chunk.js.map",
-    "72.a958911e.chunk.js.map": "/projekt-01/static/js/72.a958911e.chunk.js.map"
+    "main.f5d7749d.css.map": "/projekt-01/static/css/main.f5d7749d.css.map",
+    "main.b0e7c33c.js.map": "/projekt-01/static/js/main.b0e7c33c.js.map",
+    "559.6556ffc4.chunk.js.map": "/projekt-01/static/js/559.6556ffc4.chunk.js.map",
+    "922.4f544172.chunk.js.map": "/projekt-01/static/js/922.4f544172.chunk.js.map",
+    "862.498eb3fd.chunk.js.map": "/projekt-01/static/js/862.498eb3fd.chunk.js.map",
+    "680.fb4fb2bc.chunk.js.map": "/projekt-01/static/js/680.fb4fb2bc.chunk.js.map",
+    "453.9bdc213f.chunk.js.map": "/projekt-01/static/js/453.9bdc213f.chunk.js.map",
+    "608.e870c7ef.chunk.js.map": "/projekt-01/static/js/608.e870c7ef.chunk.js.map",
+    "858.92db2adb.chunk.js.map": "/projekt-01/static/js/858.92db2adb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.100db47b.css",
-    "static/js/main.87f802b9.js"
+    "static/css/main.f5d7749d.css",
+    "static/js/main.b0e7c33c.js"
   ]
 }
