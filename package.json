@@ -1,7 +1,7 @@
 {
   "name": "tablexpress-front-react",
   "version": "0.1.0",
-  "homepage": "https://abuzar05pl.github.io/projekt-01/",
+  "homepage": "https://abuzar05pl.github.io/restoran.git",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.1",
